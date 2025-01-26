@@ -1,0 +1,1 @@
+* Partner Tutorial: [Shwetha](https://shwethakunjur.github.io/comp423-course-notes/tutorials/rust-setup/)
